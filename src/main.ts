@@ -1,2 +1,3 @@
-const main = (): string => 'This is main'
+const main = (): string => 'It is main'
+
 export default main
