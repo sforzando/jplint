@@ -1,2 +1,3 @@
 # jplint
-Linting Service for JP Engineers
+
+Linting Service for JP Engineers.
